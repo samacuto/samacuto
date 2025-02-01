@@ -3,7 +3,7 @@ Mi nombre es Samuel y actualmente me encuentro residiendo en Sevilla terminando 
 
 - Los compañeros de mi día a día son: `.js`, `.html`, `.css`, `.php`, `.sh`, `.json`, `.svg`.
 - Estudios superiores en Desarrollo de Aplicaciones Web.
-- Trabajo como desarrollador full-stack para diferentes equipos de Investigación de la [Universidad Autónoma de Madrid](#https://www.uam.es/).
+- Trabajo como desarrollador full-stack para diferentes equipos de Investigación de la [Universidad Autónoma de Madrid](https://www.uam.es/).
 
 ---
 
